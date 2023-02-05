@@ -1,19 +1,12 @@
 
 
-import static org.junit.Assert.assertTrue;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import util.CommandLine;
-
 import io.javalin.Javalin;
+import util.CommandLine;
 
 /**
  * Unit test for simple App.
